@@ -23,7 +23,7 @@
 	<properties>
 		<nar.groupId>com.github.maven-nar</nar.groupId>
 		<nar.version>3.0.0-rc-2</nar.version>
-		<scifio.version>0.7.2</scifio.version>
+		<scifio.version>0.7.4-SNAPSHOT</scifio.version>
 	</properties>
 
 	<dependencies>
